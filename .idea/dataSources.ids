@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - 8.1.x-dev@localhost" uuid="0173cdf6-5b98-4270-8b6b-477dd1e1d763">
+    <database-info product="MySQL" version="5.5.46-MariaDB-1ubuntu0.14.04.2" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact"/>
+    <database-model serializer="dbm" rdbms="MYSQL" format-version="2.4"/>
+  </data-source>
+</component>

@@ -1,0 +1,4 @@
+name: Gravypower Contrib
+type: module
+description: 'A collection of enhansments for drupal core that don''t fit into their own modules'
+core: 8.x
