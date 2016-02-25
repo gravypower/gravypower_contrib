@@ -66,6 +66,7 @@ class RevisionModerationStateFilter extends InOperator  {
             parent::validate();
         }
     }
+
     /**
      * Helper function that generates the options.
      * @return array
